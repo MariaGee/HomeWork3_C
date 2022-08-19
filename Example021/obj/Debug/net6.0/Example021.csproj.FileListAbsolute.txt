@@ -1,0 +1,15 @@
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.csproj.AssemblyReference.cache
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.AssemblyInfoInputs.cache
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.AssemblyInfo.cs
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.csproj.CoreCompileInputs.cache
+D:\repo\Homework003\Example021\bin\Debug\net6.0\Example021.exe
+D:\repo\Homework003\Example021\bin\Debug\net6.0\Example021.deps.json
+D:\repo\Homework003\Example021\bin\Debug\net6.0\Example021.runtimeconfig.json
+D:\repo\Homework003\Example021\bin\Debug\net6.0\Example021.dll
+D:\repo\Homework003\Example021\bin\Debug\net6.0\Example021.pdb
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.dll
+D:\repo\Homework003\Example021\obj\Debug\net6.0\refint\Example021.dll
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.pdb
+D:\repo\Homework003\Example021\obj\Debug\net6.0\Example021.genruntimeconfig.cache
+D:\repo\Homework003\Example021\obj\Debug\net6.0\ref\Example021.dll
